@@ -74,9 +74,6 @@
 
 ---
 
----
-
-
 ### 🎯 Hobbies & Interests
 
 <p align="center">
