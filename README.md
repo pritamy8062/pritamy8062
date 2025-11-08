@@ -4,8 +4,9 @@
 <h3 align="center">🚀 Final-year Student | IIIT Gwalior | Full Stack Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;LeetCode+Knight+%7C+1200%2B+Problems+Solved;Open+Source+Enthusiast+%7C+Competitive+Programmer;Lifelong+Learner+and+Tech+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;LeetCode+Knight+%7C+1200%2B+Problems+Solved;Lifelong+Learner+and+Tech+Explorer" />
 </p>
+
 
 ---
 
@@ -73,6 +74,24 @@
 
 ---
 
+---
+
+---
+
+### 🎯 Hobbies & Interests
+
+<p align="center">
+  <img src="https://img.icons8.com/emoji/48/weight-lifter.png" width="40"/> &nbsp;
+  <img src="https://img.icons8.com/emoji/48/person-swimming.png" width="40"/> &nbsp;
+  <img src="https://img.icons8.com/emoji/48/badminton.png" width="40"/> &nbsp;
+  <img src="https://img.icons8.com/emoji/48/guitar.png" width="40"/>
+</p>
+
+<p align="center">
+  <b>Gym • Calisthenics • Swimming • Badminton • Guitar</b>
+</p>
+
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pritamy8062&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
