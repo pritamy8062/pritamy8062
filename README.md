@@ -76,20 +76,16 @@
 
 ---
 
----
 
 ### 🎯 Hobbies & Interests
 
 <p align="center">
-  <img src="https://img.icons8.com/emoji/48/weight-lifter.png" width="40"/> &nbsp;
-  <img src="https://img.icons8.com/emoji/48/person-swimming.png" width="40"/> &nbsp;
-  <img src="https://img.icons8.com/emoji/48/badminton.png" width="40"/> &nbsp;
-  <img src="https://img.icons8.com/emoji/48/guitar.png" width="40"/>
+  🏋️‍♂️ Gym & Calisthenics <br>
+  🏊‍♂️ Swimming <br>
+  🏸 Badminton <br>
+  🎸 Playing Guitar
 </p>
 
-<p align="center">
-  <b>Gym • Calisthenics • Swimming • Badminton • Guitar</b>
-</p>
 
 ---
 <p align="center">
