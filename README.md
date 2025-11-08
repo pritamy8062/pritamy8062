@@ -54,9 +54,10 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritamyadav&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritamyadav&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pritamy8062&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritamy8062&theme=tokyonight" height="160px"/>
 </p>
+
 
 ---
 
@@ -65,13 +66,15 @@
 <p align="center">
   <a href="mailto:pritamy611@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://leetcode.com/u/pritamy611/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-  <a href="https://github.com/pritamyadav"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/pritamyadav/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/pritamy8062"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pritam-yadav-284450260/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
+
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pritamyadav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=pritamy8062&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
 
